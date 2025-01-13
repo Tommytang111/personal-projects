@@ -51,9 +51,7 @@ Content updates will be ongoing.
 - Experimentation with real-world datasets.
 
 ## License
-This repository is licensed under the GNU License. See the [LICENSE](LICENSE) file for details.
+This repository is licensed under the BSD-2 License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 If you have any questions or feedback, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/zetang/).
-
-
